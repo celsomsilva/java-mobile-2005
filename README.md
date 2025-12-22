@@ -1,6 +1,6 @@
 # Sales - Java Mobile Project (2005)
 
-> **Note:** This repository contains the original version in Portuguese (file names, variables and methods).  You will find the repository that contains the English-translated version here: [java SuperWaba 2005 en](https://github.com/celsomsilva/java-mobile-2005-en).
+> **Note:** This repository contains the original version in Portuguese (file names, variables, and methods).  You will soon find the repository that contains the English-translated version here: [java SuperWaba 2005 en](https://github.com/celsomsilva/java-mobile-2005-en).
 
 
 This is a legacy project developed in 2005 using **Java** and the **SuperWaba** SDK — a mobile development platform derived from the **Waba project**, an early pioneer in mobile Java development (before Java ME).
