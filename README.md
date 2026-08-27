@@ -1,11 +1,11 @@
-# Sales - Java Mobile Project (2005)
+# Sales - Cross-Platform Java Mobile Project (2005–2006)
 
 > **Note:** This repository contains the original version in Portuguese (file names, variables, and methods).  You will soon find the repository that contains the English-translated version here: [java SuperWaba 2005 en](https://github.com/celsomsilva/java-mobile-2005-en).
 
 
-This is a legacy project developed in 2005 using **Java** and the **SuperWaba** SDK — a mobile development platform derived from the **Waba project**, an early pioneer in mobile Java development (before Java ME).
+This is a legacy commercial project originally developed in 2005-2006 using **Java** and the **SuperWaba SDK** - a cross-platform mobile development platform derived from the **Waba project**, designed for resource-constrained handheld devices.
 
-This commercial application, `Sales`, was built for mobile devices running **Palm OS** (eg: Zire, Tungsten, Sony Clie) and **Windows CE** platforms.
+This commercial application, Sales, was designed as a **cross-platform sales force automation system** for handheld devices running **Palm OS** (e.g., Zire, Tungsten, Sony CLIÉ), **Windows CE/Windows Mobile**, and **Symbian OS**.
 
 ---
 
@@ -21,16 +21,29 @@ SuperWaba SDK initially supported Palm OS devices and later expanded to Windows 
 
 ## About This Project
 
-The Sales application and examples included in the SuperWaba package were developed in 2005 by me while working at SuperWaba.
+The **Sales** application was originally developed in 2005-2006 by me while working at **SuperWaba** and continued to be maintained and evolved according to real customer requirements.
 
-The goal was to create a portable, lightweight, and efficient mobile sales force management system for handheld devices used by sales teams in the field.
+The goal was to provide a portable, lightweight, and efficient **cross-platform sales force automation system** for handheld devices used by sales teams in the field. The application implemented real-world commercial workflows and business rules involving customers, products, pricing, orders, discounts, bonuses, salesperson credit controls, payment conditions, taxes, and sales reporting.
 
 **Main functionalities:**
-- Client management  
-- Product catalog management  
-- Price table handling  
-- Order entry and tracking  
-- Sales reporting and dashboards  
+- Customer and product management
+- Price table management
+- Order entry and tracking
+- Payment conditions and sales agent management
+- Discount and salesperson credit control
+- Bonus order processing
+- Pricing and tax calculations
+- Sales reporting and summaries
+- Data persistence and synchronization across mobile environments
+
+**Technology Stack**
+- **Language**: Java
+- **Mobile SDK**: SuperWaba 4.50a
+- **Databases / Persistence**: H2 Database and Palm Database (PDB)
+- **IDE**: Eclipse
+- **Build**: Apache Ant
+- **Version Control**: CVS
+- **Target Platforms**: Palm OS, Windows CE/Windows Mobile, and Symbian OS
 
 
 ---
@@ -38,9 +51,9 @@ The goal was to create a portable, lightweight, and efficient mobile sales force
 ## Project Structure
 
 
-> At that time, Java packages typically followed simple directory-based naming (e.g., `bd/`, `ui/`, `cliente/`)  
-> instead of domain-based structures (`br.com.project...`).  
-> This reflects the early pre-Eclipse Java era.
+> The project preserves its original package and directory organization from the mid-2000s, including
+> structures such as bd/, ui/, and feature-specific packages. The original development environment used 
+> **Eclipse**, **Apache Ant** for builds, and **CVS** for version control.
 
 
 
@@ -110,6 +123,18 @@ java-mobile-2005/
 > **Note on code comments:**  
 > The original source files preserve their historical form.  
 > Comments appear in both **Portuguese** and **English**, reflecting the original 2005 code style — written manually, without automated translation tools.
+
+---
+
+
+## Commercial Use
+
+This was not only a demonstration or educational application. The Sales/Força de Vendas system was used and evolved in **real commercial environments**, with new features and business rules implemented according to customer requirements.
+
+Requirements included customized order workflows, payment conditions, pricing rules, salesperson credit limits, discounts, bonus orders, tax calculations, and reporting.
+
+
+---
 
 
 ## Institutional Use
