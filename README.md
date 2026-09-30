@@ -1,7 +1,7 @@
-# Sales - Cross-Platform Java Mobile Project (2005–2006)
-
+# Sales - Cross-Platform Java Mobile Project (2005-2006)
+<!--
 > **Note:** This repository contains the original version in Portuguese (file names, variables, and methods).  You will soon find the repository that contains the English-translated version here: [java SuperWaba 2005 en](https://github.com/celsomsilva/java-mobile-2005-en).
-
+-->
 
 This is a legacy commercial project originally developed in 2005-2006 using **Java** and the **SuperWaba SDK** - a cross-platform mobile development platform derived from the **Waba project**, designed for resource-constrained handheld devices.
 
@@ -11,7 +11,7 @@ This commercial application, Sales, was designed as a **cross-platform sales for
 
 ## About SuperWaba
 
-The SuperWaba company — led by **Guilherme Campos Hazan** — continued the original Waba Project, which began in 1999, and was later incubated at the **Pontifical Catholic University of Rio de Janeiro (PUC-Rio)**.
+The SuperWaba company - led by **Guilherme Campos Hazan** - continued the original Waba Project, which began in 1999, and was later incubated at the **Pontifical Catholic University of Rio de Janeiro (PUC-Rio)**.
 
 SuperWaba SDK initially supported Palm OS devices and later expanded to Windows CE and other platforms via SDL from version 5.0. It was a popular option for enterprise mobile applications throughout the early 2000s. SuperWaba was officially adopted in large-scale projects in Brazil.
 
@@ -122,7 +122,7 @@ java-mobile-2005/
 
 > **Note on code comments:**  
 > The original source files preserve their historical form.  
-> Comments appear in both **Portuguese** and **English**, reflecting the original 2005 code style — written manually, without automated translation tools.
+> Comments appear in both **Portuguese** and **English**, reflecting the original 2005 code style - written manually, without automated translation tools.
 
 ---
 
@@ -161,39 +161,39 @@ In **2009**, the **Brazilian Ministry of Planning, Budget and Management**, thro
 
 ### General Overview
 
-* **[SuperWaba — Wikipedia (EN)](https://en.wikipedia.org/wiki/SuperWaba)** — Overview of the virtual machine, supported platforms, and evolution into TotalCross.
-* **[Programming for Palm OS — Wikibooks](https://en.wikibooks.org/wiki/Programming_for_Palm_OS/SuperWaba)** — Historical tutorial showing how to develop SuperWaba applications in Eclipse.
+* **[SuperWaba - Wikipedia (EN)](https://en.wikipedia.org/wiki/SuperWaba)** - Overview of the virtual machine, supported platforms, and evolution into TotalCross.
+* **[Programming for Palm OS - Wikibooks](https://en.wikibooks.org/wiki/Programming_for_Palm_OS/SuperWaba)** - Historical tutorial showing how to develop SuperWaba applications in Eclipse.
 
 ---
 
 ### Project Archives
 
-* **[SuperWaba Project on SourceForge](https://sourceforge.net/projects/superwaba/)** — Official distribution page with changelogs and downloads.
-* **[SuperWaba Releases Archive (SourceForge)](https://sourceforge.net/projects/superwaba/files/)** — Version history (v3.41 to v5.85).
-* **[SuperWaba.org (Archived)](https://web.archive.org/web/20080315000000*/superwaba.org)** — Snapshots of the original website, including notes on the TotalCross SDK.
+* **[SuperWaba Project on SourceForge](https://sourceforge.net/projects/superwaba/)** - Official distribution page with changelogs and downloads.
+* **[SuperWaba Releases Archive (SourceForge)](https://sourceforge.net/projects/superwaba/files/)** - Version history (v3.41 to v5.85).
+* **[SuperWaba.org (Archived)](https://web.archive.org/web/20080315000000*/superwaba.org)** - Snapshots of the original website, including notes on the TotalCross SDK.
 
 ---
 
 ### Academic & Institutional References
 
-* **[PUC-Rio — Incubadora Gênesis](https://www.genesis.puc-rio.br/)** — SuperWaba listed among startups incubated at the Pontifical Catholic University of Rio de Janeiro.
-* **[Maxwell PUC-Rio Repository](https://www.maxwell.vrac.puc-rio.br/)** — Academic dissertations citing SuperWaba as an incubated technology and case of internationalization.
-* **[COPPEAD/UFRJ Dissertation](https://www.coppead.ufrj.br/)** — Mentions SuperWaba as an incubated company within the Gênesis program.
-* **[UFSC — TCC: Desenvolvimento de Aplicações para Palm OS](https://repositorio.ufsc.br/bitstream/handle/123456789/183859/TCCEduardo_Milanese.pdf?isAllowed=y&sequence=-1)** — References SuperWaba IDE and SDK in academic context.
+* **[PUC-Rio - Incubadora Gênesis](https://www.genesis.puc-rio.br/)** - SuperWaba listed among startups incubated at the Pontifical Catholic University of Rio de Janeiro.
+* **[Maxwell PUC-Rio Repository](https://www.maxwell.vrac.puc-rio.br/)** - Academic dissertations citing SuperWaba as an incubated technology and case of internationalization.
+* **[COPPEAD/UFRJ Dissertation](https://www.coppead.ufrj.br/)** - Mentions SuperWaba as an incubated company within the Gênesis program.
+* **[UFSC - TCC: Desenvolvimento de Aplicações para Palm OS](https://repositorio.ufsc.br/bitstream/handle/123456789/183859/TCCEduardo_Milanese.pdf?isAllowed=y&sequence=-1)** - References SuperWaba IDE and SDK in academic context.
 
 ---
 
 ### Evolution into TotalCross
 
-* **[TotalCross — Our History](https://totalcross.com/our-history/)** — Official statement describing the rebranding and evolution from SuperWaba.
-* **[OpenSource.com (Red Hat) — “Open Source Cross-Platform Development with TotalCross”](https://opensource.com/article/20/7/totalcross-cross-platform-development)** — Article tracing the transition from SuperWaba to TotalCross and its modern applications.
+* **[TotalCross - Our History](https://totalcross.com/our-history/)** - Official statement describing the rebranding and evolution from SuperWaba.
+* **[OpenSource.com (Red Hat) - “Open Source Cross-Platform Development with TotalCross”](https://opensource.com/article/20/7/totalcross-cross-platform-development)** - Article tracing the transition from SuperWaba to TotalCross and its modern applications.
 
 ---
 
 ### Community & Developer References
 
-* **[SuperWaba — C2 Wiki](https://wiki.c2.com/?SuperWaba)** — Community summary describing it as a Java-like VM for PDAs.
-* **[SuperWaba — DevMedia (PT)](https://www.devmedia.com.br/superwaba-introducao/1801)** — Classic Brazilian article explaining SuperWaba’s use on Palm OS, Windows CE, and Symbian.
+* **[SuperWaba - C2 Wiki](https://wiki.c2.com/?SuperWaba)** - Community summary describing it as a Java-like VM for PDAs.
+* **[SuperWaba - DevMedia (PT)](https://www.devmedia.com.br/superwaba-introducao/1801)** - Classic Brazilian article explaining SuperWaba’s use on Palm OS, Windows CE, and Symbian.
 
 ---
 
